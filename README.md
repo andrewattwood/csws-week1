@@ -2,3 +2,5 @@
 week1 lab
 
 week1.py - contains hello world test
+
+wekk1b.py - the same file aws above
